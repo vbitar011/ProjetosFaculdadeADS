@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Computação em Nuvem/Computação em Nuvem.iml" filepath="$PROJECT_DIR$/Computação em Nuvem/Computação em Nuvem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinguagemOrientadaAObjetos/LinguagemOrientadaAObjetos.iml" filepath="$PROJECT_DIR$/LinguagemOrientadaAObjetos/LinguagemOrientadaAObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetosFaculdadeADS.iml" filepath="$PROJECT_DIR$/ProjetosFaculdadeADS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinguagemOrientadaAObjetos/Unidade3/Unidade3.iml" filepath="$PROJECT_DIR$/LinguagemOrientadaAObjetos/Unidade3/Unidade3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinguagemOrientadaAObjetos/Unidade4/Unidade4.iml" filepath="$PROJECT_DIR$/LinguagemOrientadaAObjetos/Unidade4/Unidade4.iml" />
+    </modules>
+  </component>
+</project>

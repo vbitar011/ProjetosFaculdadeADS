@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Tabuada Interativo</title>
+    <style src="style.css"></style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Gerador de Tabuada Interativo</h1>
+        <p>Insira um número de 1 a 10:</p>
+        
+        <!-- Campo de entrada de dados -->
+        <input type="number" id="numero" min="1" max="10" placeholder="Ex: 5">
+        <button onclick="gerarTabuada()">Gerar</button>
+
+        <!-- Local onde a tabuada será exibida dinamicamente -->
+        <div id="resultado"></div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
