@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animação com Canvas</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: #1e1e2f;
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
+    canvas {
+      background: #111;
+      border: 3px solid #4fc3f7;
+      border-radius: 8px;
+    }
+    p { color: #bbb; }
+  </style>
+</head>
+<body>
+  <h1>Animação usando &lt;canvas&gt;</h1>
+  <canvas id="meuCanvas"></canvas>
+  <p>Clique em uma bola para trocar a cor. Clique no fundo para criar uma nova bola. Pressione ESPAÇO para pausar.</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
